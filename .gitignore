@@ -1,0 +1,8 @@
+*~
+*.suo
+*.csproj
+*.user
+bin/
+obj/
+Properties/
+TestResults/
